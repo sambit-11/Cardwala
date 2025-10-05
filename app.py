@@ -15,16 +15,22 @@ from flask import Flask, render_template, request, redirect, url_for, flash, ses
 from flask_mail import Mail, Message
 from werkzeug.security import generate_password_hash, check_password_hash
 import smtplib
+import sys
 
 app = Flask(__name__)
 
 # ------------------ LOGGING SETUP ------------------
+# Create handlers with UTF-8 encoding to support emojis
+file_handler = logging.FileHandler('app.log', encoding='utf-8')
+stream_handler = logging.StreamHandler(sys.stdout)
+stream_handler.stream = open(sys.stdout.fileno(), mode='w', encoding='utf-8', buffering=1)
+
 logging.basicConfig(
     level=logging.DEBUG,
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
     handlers=[
-        logging.FileHandler('app.log'),
-        logging.StreamHandler()
+        file_handler,
+        stream_handler
     ]
 )
 logger = logging.getLogger(__name__)
