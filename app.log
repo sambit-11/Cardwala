@@ -1,0 +1,455 @@
+2025-10-05 15:35:00,368 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-05 15:35:00,369 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-10-05 15:35:00,409 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-10-05 15:35:01,545 - werkzeug - WARNING -  * Debugger is active!
+2025-10-05 15:35:01,555 - werkzeug - INFO -  * Debugger PIN: 888-558-400
+2025-10-05 15:35:03,044 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 15:35:03] "[33mGET / HTTP/1.1[0m" 404 -
+2025-10-05 15:35:28,270 - werkzeug - WARNING -  * Debugger is active!
+2025-10-05 15:35:28,271 - werkzeug - INFO -  * Debugger PIN: 888-558-400
+2025-10-05 15:35:28,656 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-05 15:35:28,656 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-10-05 15:35:28,656 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-10-05 15:35:30,262 - werkzeug - WARNING -  * Debugger is active!
+2025-10-05 15:35:30,273 - werkzeug - INFO -  * Debugger PIN: 888-558-400
+2025-10-05 15:35:32,436 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 15:35:32] "[33mGET / HTTP/1.1[0m" 404 -
+2025-10-05 15:35:32,643 - werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\Videos\\Applications\\cardwala\\backend\\app.py', reloading
+2025-10-05 15:35:32,647 - werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\Videos\\Applications\\cardwala\\backend\\app.py', reloading
+2025-10-05 15:35:32,648 - werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\Videos\\Applications\\cardwala\\backend\\app.py', reloading
+2025-10-05 15:35:33,592 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-10-05 15:35:44,638 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-05 15:35:44,638 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-10-05 15:35:44,669 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-10-05 15:35:45,832 - werkzeug - WARNING -  * Debugger is active!
+2025-10-05 15:35:45,841 - werkzeug - INFO -  * Debugger PIN: 888-558-400
+2025-10-05 15:35:47,318 - werkzeug - INFO - 127.0.0.1 - - [05/Oct/2025 15:35:47] "[33mGET / HTTP/1.1[0m" 404 -
+2025-10-05 15:38:30,227 - __main__ - INFO - Users data saved successfully
+2025-10-05 15:38:30,228 - __main__ - INFO - Created users.json file
+2025-10-05 15:38:30,326 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.43.168:5000
+2025-10-05 15:38:30,327 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-10-05 15:38:30,376 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-10-05 15:38:31,539 - werkzeug - WARNING -  * Debugger is active!
+2025-10-05 15:38:31,546 - werkzeug - INFO -  * Debugger PIN: 888-558-400
+2025-10-05 15:38:40,529 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:38:40] "GET / HTTP/1.1" 200 -
+2025-10-05 15:38:41,670 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:38:41] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-10-05 15:38:41,677 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:38:41] "GET /static/images/Religion/Hinduism.jpg HTTP/1.1" 200 -
+2025-10-05 15:38:41,733 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:38:41] "GET /static/images/Religion/Islam.jpg HTTP/1.1" 200 -
+2025-10-05 15:38:41,800 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:38:41] "GET /static/images/Religion/christianity.jpg HTTP/1.1" 200 -
+2025-10-05 15:38:41,847 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:38:41] "GET /static/js/carousel.js HTTP/1.1" 200 -
+2025-10-05 15:38:41,867 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:38:41] "GET /static/images/Religion/Judaism.jpg HTTP/1.1" 200 -
+2025-10-05 15:38:42,139 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:38:42] "GET /static/images/Religion/buddhism.jpg HTTP/1.1" 200 -
+2025-10-05 15:38:42,314 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:38:42] "GET /static/images/Religion/Sikhism.png HTTP/1.1" 200 -
+2025-10-05 15:38:42,410 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:38:42] "GET /static/images/Ceremony/Wedding_Christian.jpg HTTP/1.1" 200 -
+2025-10-05 15:38:42,452 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:38:42] "GET /static/images/Ceremony/Baptism.jpg HTTP/1.1" 200 -
+2025-10-05 15:38:42,455 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:38:42] "GET /static/images/Ceremony/Shraddha.jpg HTTP/1.1" 200 -
+2025-10-05 15:38:42,514 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:38:42] "GET /static/images/Religion/Zoroastrianism.jpg HTTP/1.1" 200 -
+2025-10-05 15:38:42,525 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:38:42] "GET /static/images/Religion/Taoism_Chinese_Traditions.jpg HTTP/1.1" 200 -
+2025-10-05 15:38:42,584 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:38:42] "GET /static/images/Ceremony/Vivah_Wedding.jpg HTTP/1.1" 200 -
+2025-10-05 15:38:42,614 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:38:42] "GET /static/images/Ceremony/annaprashan.jpg HTTP/1.1" 200 -
+2025-10-05 15:38:42,653 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:38:42] "GET /static/images/Ceremony/Mundan.jpg HTTP/1.1" 200 -
+2025-10-05 15:38:42,658 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:38:42] "GET /static/images/Ceremony/Grihapravesh.jpg HTTP/1.1" 200 -
+2025-10-05 15:38:42,759 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:38:42] "GET /static/images/Ceremony/Namkaran.jpg HTTP/1.1" 200 -
+2025-10-05 15:38:42,764 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:38:42] "GET /static/images/Ceremony/Confirmation.jpg HTTP/1.1" 200 -
+2025-10-05 15:38:42,844 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:38:42] "GET /static/images/Ceremony/Upanayana.jpg HTTP/1.1" 200 -
+2025-10-05 15:38:43,027 - werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\flask\\templating.py', reloading
+2025-10-05 15:38:43,089 - werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\jinja2\\environment.py', reloading
+2025-10-05 15:38:43,156 - werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\jinja2\\loaders.py', reloading
+2025-10-05 15:38:43,212 - werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\flask\\ctx.py', reloading
+2025-10-05 15:38:43,369 - werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\werkzeug\\routing\\map.py', reloading
+2025-10-05 15:38:43,453 - werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\werkzeug\\routing\\matcher.py', reloading
+2025-10-05 15:38:43,491 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:38:43] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+2025-10-05 15:38:44,076 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-10-05 15:38:48,351 - werkzeug - WARNING -  * Debugger is active!
+2025-10-05 15:38:48,397 - werkzeug - INFO -  * Debugger PIN: 888-558-400
+2025-10-05 15:38:48,731 - __main__ - INFO - Generated captcha for signup
+2025-10-05 15:38:48,742 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:38:48] "GET /generate-captcha/signup HTTP/1.1" 200 -
+2025-10-05 15:38:48,779 - __main__ - INFO - Generated captcha for signup
+2025-10-05 15:38:48,784 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:38:48] "GET /generate-captcha/signup HTTP/1.1" 200 -
+2025-10-05 15:39:01,402 - __main__ - ERROR - SMTP Authentication failed - check email credentials
+2025-10-05 15:39:01,404 - __main__ - WARNING - [DEV MODE] OTP for sambitmallik121@gmail.com: 038217
+2025-10-05 15:39:01,420 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:39:01] "[32mPOST /signup HTTP/1.1[0m" 302 -
+2025-10-05 15:39:01,511 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:39:01] "GET /verify-otp HTTP/1.1" 200 -
+2025-10-05 15:39:01,758 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:39:01] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+2025-10-05 15:43:49,504 - werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\Videos\\Applications\\cardwala\\backend\\app.py', reloading
+2025-10-05 15:43:50,048 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-10-05 15:43:50,831 - __main__ - INFO - ==================================================
+2025-10-05 15:43:50,832 - __main__ - INFO - EMAIL CONFIGURATION:
+2025-10-05 15:43:50,832 - __main__ - INFO - MAIL_USERNAME: youremail@gmail.com
+2025-10-05 15:43:50,832 - __main__ - INFO - MAIL_PASSWORD: ***************
+2025-10-05 15:43:50,832 - __main__ - INFO - MAIL_SERVER: smtp.gmail.com
+2025-10-05 15:43:50,832 - __main__ - INFO - MAIL_PORT: 587
+2025-10-05 15:43:50,832 - __main__ - INFO - ==================================================
+2025-10-05 15:43:50,869 - werkzeug - WARNING -  * Debugger is active!
+2025-10-05 15:43:50,879 - werkzeug - INFO -  * Debugger PIN: 888-558-400
+2025-10-05 15:43:51,638 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:43:51] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+2025-10-05 15:43:51,757 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:43:51] "GET / HTTP/1.1" 200 -
+2025-10-05 15:43:55,265 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:43:55] "GET / HTTP/1.1" 200 -
+2025-10-05 15:43:56,313 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:43:56] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-10-05 15:43:56,369 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:43:56] "[36mGET /static/js/carousel.js HTTP/1.1[0m" 304 -
+2025-10-05 15:43:56,395 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:43:56] "[36mGET /static/images/Religion/Islam.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:43:56,420 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:43:56] "[36mGET /static/images/Ceremony/Wedding_Christian.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:43:56,432 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:43:56] "[36mGET /static/images/Religion/Hinduism.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:43:56,437 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:43:56] "[36mGET /static/images/Religion/christianity.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:43:56,485 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:43:56] "[36mGET /static/images/Religion/Judaism.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:43:56,488 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:43:56] "[36mGET /static/images/Religion/Sikhism.png HTTP/1.1[0m" 304 -
+2025-10-05 15:43:56,490 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:43:56] "[36mGET /static/images/Religion/buddhism.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:43:56,506 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:43:56] "[36mGET /static/images/Ceremony/Baptism.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:43:56,523 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:43:56] "[36mGET /static/images/Ceremony/Shraddha.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:43:56,554 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:43:56] "[36mGET /static/images/Ceremony/Vivah_Wedding.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:43:56,589 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:43:56] "[36mGET /static/images/Ceremony/annaprashan.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:43:56,662 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:43:56] "[36mGET /static/images/Ceremony/Mundan.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:43:56,668 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:43:56] "[36mGET /static/images/Religion/Zoroastrianism.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:43:56,669 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:43:56] "[36mGET /static/images/Religion/Taoism_Chinese_Traditions.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:43:56,670 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:43:56] "[36mGET /static/images/Ceremony/Grihapravesh.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:43:56,687 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:43:56] "[36mGET /static/images/Ceremony/Namkaran.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:43:56,723 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:43:56] "[36mGET /static/images/Ceremony/Confirmation.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:43:56,733 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:43:56] "[36mGET /static/images/Ceremony/Upanayana.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:43:56,790 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:43:56] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+2025-10-05 15:43:56,901 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:43:56] "GET / HTTP/1.1" 200 -
+2025-10-05 15:43:57,953 - __main__ - INFO - Generated captcha for signup: 71982
+2025-10-05 15:43:57,953 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:43:57] "GET /generate-captcha/signup HTTP/1.1" 200 -
+2025-10-05 15:52:06,607 - werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\this.py', reloading
+2025-10-05 15:52:07,201 - werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\idlelib\\__init__.py', reloading
+2025-10-05 15:52:08,636 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-10-05 15:52:10,566 - __main__ - INFO - ==================================================
+2025-10-05 15:52:10,566 - __main__ - INFO - EMAIL CONFIGURATION:
+2025-10-05 15:52:10,566 - __main__ - INFO - MAIL_USERNAME: youremail@gmail.com
+2025-10-05 15:52:10,566 - __main__ - INFO - MAIL_PASSWORD: ***************
+2025-10-05 15:52:10,566 - __main__ - INFO - MAIL_SERVER: smtp.gmail.com
+2025-10-05 15:52:10,566 - __main__ - INFO - MAIL_PORT: 587
+2025-10-05 15:52:10,566 - __main__ - INFO - ==================================================
+2025-10-05 15:52:10,607 - werkzeug - WARNING -  * Debugger is active!
+2025-10-05 15:52:10,615 - werkzeug - INFO -  * Debugger PIN: 888-558-400
+2025-10-05 15:54:46,483 - __main__ - INFO - ==================================================
+2025-10-05 15:54:46,483 - __main__ - INFO - EMAIL CONFIGURATION:
+2025-10-05 15:54:46,483 - __main__ - INFO - MAIL_USERNAME: youremail@gmail.com
+2025-10-05 15:54:46,483 - __main__ - INFO - MAIL_PASSWORD: ***************
+2025-10-05 15:54:46,484 - __main__ - INFO - MAIL_SERVER: smtp.gmail.com
+2025-10-05 15:54:46,484 - __main__ - INFO - MAIL_PORT: 587
+2025-10-05 15:54:46,484 - __main__ - INFO - ==================================================
+2025-10-05 15:54:46,562 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.43.168:5000
+2025-10-05 15:54:46,562 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-10-05 15:54:46,589 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-10-05 15:54:47,422 - __main__ - INFO - ==================================================
+2025-10-05 15:54:47,423 - __main__ - INFO - EMAIL CONFIGURATION:
+2025-10-05 15:54:47,423 - __main__ - INFO - MAIL_USERNAME: youremail@gmail.com
+2025-10-05 15:54:47,423 - __main__ - INFO - MAIL_PASSWORD: ***************
+2025-10-05 15:54:47,423 - __main__ - INFO - MAIL_SERVER: smtp.gmail.com
+2025-10-05 15:54:47,423 - __main__ - INFO - MAIL_PORT: 587
+2025-10-05 15:54:47,423 - __main__ - INFO - ==================================================
+2025-10-05 15:54:47,480 - werkzeug - WARNING -  * Debugger is active!
+2025-10-05 15:54:47,492 - werkzeug - INFO -  * Debugger PIN: 888-558-400
+2025-10-05 15:54:54,354 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:54:54] "GET / HTTP/1.1" 200 -
+2025-10-05 15:54:54,664 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:54:54] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-10-05 15:54:54,694 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:54:54] "[36mGET /static/images/Religion/christianity.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:54:54,709 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:54:54] "[36mGET /static/js/carousel.js HTTP/1.1[0m" 304 -
+2025-10-05 15:54:54,764 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:54:54] "[36mGET /static/images/Religion/Islam.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:54:54,774 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:54:54] "[36mGET /static/images/Religion/Judaism.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:54:54,913 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:54:54] "[36mGET /static/images/Religion/Hinduism.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:54:54,949 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:54:54] "[36mGET /static/images/Religion/buddhism.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:54:54,983 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:54:54] "[36mGET /static/images/Religion/Sikhism.png HTTP/1.1[0m" 304 -
+2025-10-05 15:54:55,032 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:54:55] "[36mGET /static/images/Religion/Zoroastrianism.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:54:55,078 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:54:55] "[36mGET /static/images/Religion/Taoism_Chinese_Traditions.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:54:55,096 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:54:55] "[36mGET /static/images/Ceremony/Vivah_Wedding.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:54:55,132 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:54:55] "[36mGET /static/images/Ceremony/Grihapravesh.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:54:55,197 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:54:55] "[36mGET /static/images/Ceremony/Mundan.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:54:55,227 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:54:55] "[36mGET /static/images/Ceremony/Confirmation.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:54:55,255 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:54:55] "[36mGET /static/images/Ceremony/Namkaran.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:54:55,294 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:54:55] "[36mGET /static/images/Ceremony/Baptism.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:54:55,311 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:54:55] "[36mGET /static/images/Ceremony/Upanayana.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:54:55,349 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:54:55] "[36mGET /static/images/Ceremony/annaprashan.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:54:55,407 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:54:55] "[36mGET /static/images/Ceremony/Wedding_Christian.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:54:55,443 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:54:55] "[36mGET /static/images/Ceremony/Shraddha.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:54:55,515 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:54:55] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+2025-10-05 15:54:55,547 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:54:55] "GET / HTTP/1.1" 200 -
+2025-10-05 15:54:59,662 - __main__ - INFO - Generated captcha for signup: 66423
+2025-10-05 15:54:59,663 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:54:59] "GET /generate-captcha/signup HTTP/1.1" 200 -
+2025-10-05 15:55:08,657 - __main__ - INFO - === SIGNUP OTP DEBUG ===
+2025-10-05 15:55:08,662 - __main__ - INFO - Email: sambitmallik121@gmail.com
+2025-10-05 15:55:08,663 - __main__ - INFO - Generated OTP: 709829
+2025-10-05 15:55:08,666 - __main__ - INFO - ========================
+2025-10-05 15:55:08,668 - __main__ - INFO - Attempting to send OTP to sambitmallik121@gmail.com
+2025-10-05 15:55:08,670 - __main__ - DEBUG - Mail config - Server: smtp.gmail.com, Port: 587
+2025-10-05 15:55:08,671 - __main__ - DEBUG - Mail username: youremail@gmail.com
+2025-10-05 15:55:12,095 - werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\cp1252.py', reloading
+2025-10-05 15:55:12,923 - __main__ - ERROR - Check if:
+2025-10-05 15:55:12,923 - __main__ - ERROR - 1. MAIL_USERNAME is correct
+2025-10-05 15:55:12,923 - __main__ - ERROR - 2. MAIL_PASSWORD is a valid App Password (not regular password)
+2025-10-05 15:55:12,924 - __main__ - ERROR - 3. 2-Step Verification is enabled on Gmail
+2025-10-05 15:55:12,925 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:55:12] "[32mPOST /signup HTTP/1.1[0m" 302 -
+2025-10-05 15:55:12,981 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:55:12] "GET / HTTP/1.1" 200 -
+2025-10-05 15:55:13,887 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-10-05 15:55:15,488 - __main__ - INFO - ==================================================
+2025-10-05 15:55:15,488 - __main__ - INFO - EMAIL CONFIGURATION:
+2025-10-05 15:55:15,488 - __main__ - INFO - MAIL_USERNAME: youremail@gmail.com
+2025-10-05 15:55:15,488 - __main__ - INFO - MAIL_PASSWORD: ***************
+2025-10-05 15:55:15,489 - __main__ - INFO - MAIL_SERVER: smtp.gmail.com
+2025-10-05 15:55:15,489 - __main__ - INFO - MAIL_PORT: 587
+2025-10-05 15:55:15,489 - __main__ - INFO - ==================================================
+2025-10-05 15:55:15,593 - werkzeug - WARNING -  * Debugger is active!
+2025-10-05 15:55:15,616 - werkzeug - INFO -  * Debugger PIN: 888-558-400
+2025-10-05 15:55:16,059 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:55:16] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-10-05 15:55:16,076 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:55:16] "[36mGET /static/images/Religion/christianity.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:55:16,090 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:55:16] "[36mGET /static/images/Religion/Judaism.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:55:16,127 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:55:16] "[36mGET /static/images/Religion/Islam.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:55:16,146 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:55:16] "[36mGET /static/images/Religion/Sikhism.png HTTP/1.1[0m" 304 -
+2025-10-05 15:55:16,159 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:55:16] "[36mGET /static/images/Religion/Hinduism.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:55:16,178 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:55:16] "[36mGET /static/images/Religion/Taoism_Chinese_Traditions.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:55:16,208 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:55:16] "[36mGET /static/js/carousel.js HTTP/1.1[0m" 304 -
+2025-10-05 15:55:16,221 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:55:16] "[36mGET /static/images/Religion/buddhism.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:55:16,241 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:55:16] "[36mGET /static/images/Ceremony/Vivah_Wedding.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:55:16,256 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:55:16] "[36mGET /static/images/Religion/Zoroastrianism.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:55:16,276 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:55:16] "[36mGET /static/images/Ceremony/Grihapravesh.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:55:16,288 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:55:16] "[36mGET /static/images/Ceremony/Mundan.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:55:16,307 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:55:16] "[36mGET /static/images/Ceremony/Confirmation.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:55:16,310 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:55:16] "[36mGET /static/images/Ceremony/Namkaran.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:55:16,324 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:55:16] "[36mGET /static/images/Ceremony/Baptism.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:55:16,340 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:55:16] "[36mGET /static/images/Ceremony/Upanayana.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:55:16,358 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:55:16] "[36mGET /static/images/Ceremony/annaprashan.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:55:16,366 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:55:16] "[36mGET /static/images/Ceremony/Wedding_Christian.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:55:16,371 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:55:16] "[36mGET /static/images/Ceremony/Shraddha.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:55:16,391 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:55:16] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+2025-10-05 15:55:16,487 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:55:16] "GET / HTTP/1.1" 200 -
+2025-10-05 15:55:38,218 - __main__ - INFO - Generated captcha for signup: 26847
+2025-10-05 15:55:38,235 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:55:38] "GET /generate-captcha/signup HTTP/1.1" 200 -
+2025-10-05 15:55:42,673 - __main__ - INFO - Generated captcha for signup: 96397
+2025-10-05 15:55:42,675 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:55:42] "GET /generate-captcha/signup HTTP/1.1" 200 -
+2025-10-05 15:55:43,315 - __main__ - INFO - Generated captcha for signup: 51777
+2025-10-05 15:55:43,316 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:55:43] "GET /generate-captcha/signup HTTP/1.1" 200 -
+2025-10-05 15:55:52,459 - __main__ - INFO - === SIGNUP OTP DEBUG ===
+2025-10-05 15:55:52,459 - __main__ - INFO - Email: sambitmallik121@gmail.com
+2025-10-05 15:55:52,460 - __main__ - INFO - Generated OTP: 811412
+2025-10-05 15:55:52,460 - __main__ - INFO - ========================
+2025-10-05 15:55:52,460 - __main__ - INFO - Attempting to send OTP to sambitmallik121@gmail.com
+2025-10-05 15:55:52,460 - __main__ - DEBUG - Mail config - Server: smtp.gmail.com, Port: 587
+2025-10-05 15:55:52,460 - __main__ - DEBUG - Mail username: youremail@gmail.com
+2025-10-05 15:55:58,584 - __main__ - ERROR - Check if:
+2025-10-05 15:55:58,584 - __main__ - ERROR - 1. MAIL_USERNAME is correct
+2025-10-05 15:55:58,584 - __main__ - ERROR - 2. MAIL_PASSWORD is a valid App Password (not regular password)
+2025-10-05 15:55:58,585 - __main__ - ERROR - 3. 2-Step Verification is enabled on Gmail
+2025-10-05 15:55:58,587 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:55:58] "[32mPOST /signup HTTP/1.1[0m" 302 -
+2025-10-05 15:56:02,643 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:56:02] "GET / HTTP/1.1" 200 -
+2025-10-05 15:56:05,385 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:56:05] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-10-05 15:56:05,406 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:56:05] "[36mGET /static/images/Religion/Judaism.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:56:05,422 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:56:05] "[36mGET /static/js/carousel.js HTTP/1.1[0m" 304 -
+2025-10-05 15:56:05,436 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:56:05] "[36mGET /static/images/Religion/christianity.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:56:05,440 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:56:05] "[36mGET /static/images/Religion/Hinduism.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:56:05,487 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:56:05] "[36mGET /static/images/Religion/Islam.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:56:05,513 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:56:05] "[36mGET /static/images/Religion/buddhism.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:56:05,545 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:56:05] "[36mGET /static/images/Religion/Sikhism.png HTTP/1.1[0m" 304 -
+2025-10-05 15:56:05,572 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:56:05] "[36mGET /static/images/Religion/Taoism_Chinese_Traditions.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:56:05,578 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:56:05] "[36mGET /static/images/Ceremony/Vivah_Wedding.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:56:05,598 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:56:05] "[36mGET /static/images/Ceremony/Grihapravesh.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:56:05,613 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:56:05] "[36mGET /static/images/Ceremony/Mundan.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:56:05,646 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:56:05] "[36mGET /static/images/Religion/Zoroastrianism.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:56:05,665 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:56:05] "[36mGET /static/images/Ceremony/Confirmation.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:56:05,680 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:56:05] "[36mGET /static/images/Ceremony/Namkaran.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:56:05,695 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:56:05] "[36mGET /static/images/Ceremony/Baptism.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:56:05,713 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:56:05] "[36mGET /static/images/Ceremony/Upanayana.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:56:05,720 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:56:05] "[36mGET /static/images/Ceremony/annaprashan.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:56:05,725 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:56:05] "[36mGET /static/images/Ceremony/Wedding_Christian.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:56:05,740 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:56:05] "[36mGET /static/images/Ceremony/Shraddha.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:56:05,770 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:56:05] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+2025-10-05 15:56:05,792 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:56:05] "GET / HTTP/1.1" 200 -
+2025-10-05 15:56:16,594 - __main__ - INFO - Generated captcha for signup: 51026
+2025-10-05 15:56:16,608 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:56:16] "GET /generate-captcha/signup HTTP/1.1" 200 -
+2025-10-05 15:56:17,071 - __main__ - INFO - Generated captcha for signup: 93231
+2025-10-05 15:56:17,074 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:56:17] "GET /generate-captcha/signup HTTP/1.1" 200 -
+2025-10-05 15:56:29,615 - __main__ - INFO - === SIGNUP OTP DEBUG ===
+2025-10-05 15:56:29,615 - __main__ - INFO - Email: sambitmallik121@gmail.com
+2025-10-05 15:56:29,616 - __main__ - INFO - Generated OTP: 563884
+2025-10-05 15:56:29,616 - __main__ - INFO - ========================
+2025-10-05 15:56:29,616 - __main__ - INFO - Attempting to send OTP to sambitmallik121@gmail.com
+2025-10-05 15:56:29,616 - __main__ - DEBUG - Mail config - Server: smtp.gmail.com, Port: 587
+2025-10-05 15:56:29,616 - __main__ - DEBUG - Mail username: youremail@gmail.com
+2025-10-05 15:56:32,318 - __main__ - INFO - === SIGNUP OTP DEBUG ===
+2025-10-05 15:56:32,318 - __main__ - INFO - Email: sambitmallik121@gmail.com
+2025-10-05 15:56:32,319 - __main__ - INFO - Generated OTP: 423936
+2025-10-05 15:56:32,319 - __main__ - INFO - ========================
+2025-10-05 15:56:32,320 - __main__ - INFO - Attempting to send OTP to sambitmallik121@gmail.com
+2025-10-05 15:56:32,321 - __main__ - DEBUG - Mail config - Server: smtp.gmail.com, Port: 587
+2025-10-05 15:56:32,323 - __main__ - DEBUG - Mail username: youremail@gmail.com
+2025-10-05 15:56:32,799 - __main__ - ERROR - Check if:
+2025-10-05 15:56:32,800 - __main__ - ERROR - 1. MAIL_USERNAME is correct
+2025-10-05 15:56:32,800 - __main__ - ERROR - 2. MAIL_PASSWORD is a valid App Password (not regular password)
+2025-10-05 15:56:32,800 - __main__ - ERROR - 3. 2-Step Verification is enabled on Gmail
+2025-10-05 15:56:32,807 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:56:32] "[32mPOST /signup HTTP/1.1[0m" 302 -
+2025-10-05 15:56:33,905 - __main__ - INFO - === SIGNUP OTP DEBUG ===
+2025-10-05 15:56:33,906 - __main__ - INFO - Email: sambitmallik121@gmail.com
+2025-10-05 15:56:33,906 - __main__ - INFO - Generated OTP: 370598
+2025-10-05 15:56:33,907 - __main__ - INFO - ========================
+2025-10-05 15:56:33,908 - __main__ - INFO - Attempting to send OTP to sambitmallik121@gmail.com
+2025-10-05 15:56:33,909 - __main__ - DEBUG - Mail config - Server: smtp.gmail.com, Port: 587
+2025-10-05 15:56:33,910 - __main__ - DEBUG - Mail username: youremail@gmail.com
+2025-10-05 15:56:35,040 - __main__ - ERROR - Check if:
+2025-10-05 15:56:35,042 - __main__ - ERROR - 1. MAIL_USERNAME is correct
+2025-10-05 15:56:35,044 - __main__ - ERROR - 2. MAIL_PASSWORD is a valid App Password (not regular password)
+2025-10-05 15:56:35,045 - __main__ - ERROR - 3. 2-Step Verification is enabled on Gmail
+2025-10-05 15:56:35,049 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:56:35] "[32mPOST /signup HTTP/1.1[0m" 302 -
+2025-10-05 15:56:36,681 - __main__ - ERROR - Check if:
+2025-10-05 15:56:36,683 - __main__ - ERROR - 1. MAIL_USERNAME is correct
+2025-10-05 15:56:36,684 - __main__ - ERROR - 2. MAIL_PASSWORD is a valid App Password (not regular password)
+2025-10-05 15:56:36,687 - __main__ - ERROR - 3. 2-Step Verification is enabled on Gmail
+2025-10-05 15:56:36,690 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:56:36] "[32mPOST /signup HTTP/1.1[0m" 302 -
+2025-10-05 15:56:36,758 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:56:36] "GET / HTTP/1.1" 200 -
+2025-10-05 15:56:36,864 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:56:36] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-10-05 15:56:36,872 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:56:36] "[36mGET /static/images/Religion/Judaism.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:56:36,881 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:56:36] "[36mGET /static/images/Religion/christianity.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:56:36,894 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:56:36] "[36mGET /static/js/carousel.js HTTP/1.1[0m" 304 -
+2025-10-05 15:56:36,928 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:56:36] "[36mGET /static/images/Religion/Islam.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:56:36,937 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:56:36] "[36mGET /static/images/Religion/Hinduism.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:56:36,940 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:56:36] "[36mGET /static/images/Religion/buddhism.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:56:36,943 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:56:36] "[36mGET /static/images/Religion/Sikhism.png HTTP/1.1[0m" 304 -
+2025-10-05 15:56:36,967 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:56:36] "[36mGET /static/images/Ceremony/Vivah_Wedding.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:56:36,969 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:56:36] "[36mGET /static/images/Ceremony/Grihapravesh.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:56:36,977 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:56:36] "[36mGET /static/images/Religion/Zoroastrianism.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:56:36,978 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:56:36] "[36mGET /static/images/Religion/Taoism_Chinese_Traditions.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:56:37,030 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:56:37] "[36mGET /static/images/Ceremony/Mundan.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:56:37,038 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:56:37] "[36mGET /static/images/Ceremony/Confirmation.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:56:37,050 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:56:37] "[36mGET /static/images/Ceremony/Namkaran.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:56:37,057 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:56:37] "[36mGET /static/images/Ceremony/Baptism.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:56:37,064 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:56:37] "[36mGET /static/images/Ceremony/Upanayana.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:56:37,087 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:56:37] "[36mGET /static/images/Ceremony/annaprashan.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:56:37,090 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:56:37] "[36mGET /static/images/Ceremony/Wedding_Christian.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:56:37,111 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:56:37] "[36mGET /static/images/Ceremony/Shraddha.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:56:37,153 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:56:37] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+2025-10-05 15:56:37,169 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:56:37] "GET / HTTP/1.1" 200 -
+2025-10-05 15:56:53,105 - __main__ - INFO - Generated captcha for signup: 72717
+2025-10-05 15:56:53,114 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:56:53] "GET /generate-captcha/signup HTTP/1.1" 200 -
+2025-10-05 15:57:16,148 - __main__ - INFO - Generated captcha for signup: 39350
+2025-10-05 15:57:16,151 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:57:16] "GET /generate-captcha/signup HTTP/1.1" 200 -
+2025-10-05 15:57:35,057 - __main__ - INFO - Generated captcha for signup: 66048
+2025-10-05 15:57:35,058 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:57:35] "GET /generate-captcha/signup HTTP/1.1" 200 -
+2025-10-05 15:57:50,265 - __main__ - INFO - === SIGNUP OTP DEBUG ===
+2025-10-05 15:57:50,265 - __main__ - INFO - Email: sambitmallik121@gmail.com
+2025-10-05 15:57:50,265 - __main__ - INFO - Generated OTP: 264458
+2025-10-05 15:57:50,265 - __main__ - INFO - ========================
+2025-10-05 15:57:50,266 - __main__ - INFO - Attempting to send OTP to sambitmallik121@gmail.com
+2025-10-05 15:57:50,266 - __main__ - DEBUG - Mail config - Server: smtp.gmail.com, Port: 587
+2025-10-05 15:57:50,266 - __main__ - DEBUG - Mail username: youremail@gmail.com
+2025-10-05 15:57:53,359 - __main__ - ERROR - Check if:
+2025-10-05 15:57:53,361 - __main__ - ERROR - 1. MAIL_USERNAME is correct
+2025-10-05 15:57:53,362 - __main__ - ERROR - 2. MAIL_PASSWORD is a valid App Password (not regular password)
+2025-10-05 15:57:53,363 - __main__ - ERROR - 3. 2-Step Verification is enabled on Gmail
+2025-10-05 15:57:53,376 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:57:53] "[32mPOST /signup HTTP/1.1[0m" 302 -
+2025-10-05 15:57:53,427 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:57:53] "GET / HTTP/1.1" 200 -
+2025-10-05 15:57:53,524 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:57:53] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-10-05 15:57:53,638 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:57:53] "[36mGET /static/images/Religion/Judaism.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:57:53,675 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:57:53] "[36mGET /static/images/Religion/christianity.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:57:53,683 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:57:53] "[36mGET /static/js/carousel.js HTTP/1.1[0m" 304 -
+2025-10-05 15:57:53,716 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:57:53] "[36mGET /static/images/Religion/Islam.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:57:53,729 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:57:53] "[36mGET /static/images/Religion/Hinduism.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:57:53,739 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:57:53] "[36mGET /static/images/Religion/buddhism.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:57:53,783 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:57:53] "[36mGET /static/images/Religion/Sikhism.png HTTP/1.1[0m" 304 -
+2025-10-05 15:57:53,795 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:57:53] "[36mGET /static/images/Religion/Zoroastrianism.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:57:53,802 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:57:53] "[36mGET /static/images/Religion/Taoism_Chinese_Traditions.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:57:53,812 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:57:53] "[36mGET /static/images/Ceremony/Vivah_Wedding.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:57:53,836 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:57:53] "[36mGET /static/images/Ceremony/Grihapravesh.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:57:53,856 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:57:53] "[36mGET /static/images/Ceremony/Mundan.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:57:53,862 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:57:53] "[36mGET /static/images/Ceremony/Confirmation.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:57:53,871 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:57:53] "[36mGET /static/images/Ceremony/Namkaran.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:57:53,901 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:57:53] "[36mGET /static/images/Ceremony/Baptism.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:57:53,903 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:57:53] "[36mGET /static/images/Ceremony/Upanayana.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:57:53,915 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:57:53] "[36mGET /static/images/Ceremony/annaprashan.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:57:53,938 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:57:53] "[36mGET /static/images/Ceremony/Shraddha.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:57:53,939 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:57:53] "[36mGET /static/images/Ceremony/Wedding_Christian.jpg HTTP/1.1[0m" 304 -
+2025-10-05 15:57:53,968 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:57:53] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+2025-10-05 15:57:54,022 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:57:54] "GET / HTTP/1.1" 200 -
+2025-10-05 15:58:01,054 - __main__ - INFO - Generated captcha for signup: 25512
+2025-10-05 15:58:01,055 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 15:58:01] "GET /generate-captcha/signup HTTP/1.1" 200 -
+2025-10-05 16:25:32,779 - werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\Videos\\Applications\\cardwala\\backend\\static\\check_images.py', reloading
+2025-10-05 16:25:34,103 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-10-05 16:25:41,803 - __main__ - INFO - ==================================================
+2025-10-05 16:25:41,803 - __main__ - INFO - EMAIL CONFIGURATION:
+2025-10-05 16:25:41,813 - __main__ - INFO - MAIL_USERNAME: youremail@gmail.com
+2025-10-05 16:25:41,816 - __main__ - INFO - MAIL_PASSWORD: ***************
+2025-10-05 16:25:41,818 - __main__ - INFO - MAIL_SERVER: smtp.gmail.com
+2025-10-05 16:25:41,819 - __main__ - INFO - MAIL_PORT: 587
+2025-10-05 16:25:41,820 - __main__ - INFO - ==================================================
+2025-10-05 16:25:42,188 - werkzeug - WARNING -  * Debugger is active!
+2025-10-05 16:25:42,284 - werkzeug - INFO -  * Debugger PIN: 888-558-400
+2025-10-05 16:25:43,003 - __main__ - INFO - Generated captcha for signup: 13158
+2025-10-05 16:25:43,008 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 16:25:43] "GET /generate-captcha/signup HTTP/1.1" 200 -
+2025-10-05 16:25:52,056 - __main__ - INFO - === SIGNUP OTP DEBUG ===
+2025-10-05 16:25:52,083 - __main__ - INFO - Email: sambitmallik121@gmail.com
+2025-10-05 16:25:52,083 - __main__ - INFO - Generated OTP: 116045
+2025-10-05 16:25:52,084 - __main__ - INFO - ========================
+2025-10-05 16:25:52,093 - __main__ - INFO - Attempting to send OTP to sambitmallik121@gmail.com
+2025-10-05 16:25:52,096 - __main__ - DEBUG - Mail config - Server: smtp.gmail.com, Port: 587
+2025-10-05 16:25:52,096 - __main__ - DEBUG - Mail username: youremail@gmail.com
+2025-10-05 16:25:59,140 - __main__ - ERROR - Check if:
+2025-10-05 16:25:59,142 - __main__ - ERROR - 1. MAIL_USERNAME is correct
+2025-10-05 16:25:59,143 - __main__ - ERROR - 2. MAIL_PASSWORD is a valid App Password (not regular password)
+2025-10-05 16:25:59,145 - __main__ - ERROR - 3. 2-Step Verification is enabled on Gmail
+2025-10-05 16:25:59,150 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 16:25:59] "[32mPOST /signup HTTP/1.1[0m" 302 -
+2025-10-05 16:25:59,686 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 16:25:59] "GET / HTTP/1.1" 200 -
+2025-10-05 16:26:01,160 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 16:26:01] "[36mGET /static/images/Religion/Judaism.jpg HTTP/1.1[0m" 304 -
+2025-10-05 16:26:01,223 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 16:26:01] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-10-05 16:26:01,261 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 16:26:01] "[36mGET /static/images/Religion/christianity.jpg HTTP/1.1[0m" 304 -
+2025-10-05 16:26:01,311 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 16:26:01] "[36mGET /static/js/carousel.js HTTP/1.1[0m" 304 -
+2025-10-05 16:26:01,358 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 16:26:01] "[36mGET /static/images/Religion/Islam.jpg HTTP/1.1[0m" 304 -
+2025-10-05 16:26:01,458 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 16:26:01] "[36mGET /static/images/Religion/Hinduism.jpg HTTP/1.1[0m" 304 -
+2025-10-05 16:26:01,466 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 16:26:01] "[36mGET /static/images/Religion/Sikhism.png HTTP/1.1[0m" 304 -
+2025-10-05 16:26:01,479 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 16:26:01] "[36mGET /static/images/Religion/buddhism.jpg HTTP/1.1[0m" 304 -
+2025-10-05 16:26:01,483 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 16:26:01] "[36mGET /static/images/Religion/Taoism_Chinese_Traditions.jpg HTTP/1.1[0m" 304 -
+2025-10-05 16:26:01,502 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 16:26:01] "[36mGET /static/images/Ceremony/Vivah_Wedding.jpg HTTP/1.1[0m" 304 -
+2025-10-05 16:26:01,520 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 16:26:01] "[36mGET /static/images/Religion/Zoroastrianism.jpg HTTP/1.1[0m" 304 -
+2025-10-05 16:26:01,532 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 16:26:01] "[36mGET /static/images/Ceremony/Grihapravesh.jpg HTTP/1.1[0m" 304 -
+2025-10-05 16:26:01,549 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 16:26:01] "[36mGET /static/images/Ceremony/Mundan.jpg HTTP/1.1[0m" 304 -
+2025-10-05 16:26:01,566 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 16:26:01] "[36mGET /static/images/Ceremony/Confirmation.jpg HTTP/1.1[0m" 304 -
+2025-10-05 16:26:01,570 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 16:26:01] "[36mGET /static/images/Ceremony/Namkaran.jpg HTTP/1.1[0m" 304 -
+2025-10-05 16:26:01,597 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 16:26:01] "[36mGET /static/images/Ceremony/Baptism.jpg HTTP/1.1[0m" 304 -
+2025-10-05 16:26:01,600 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 16:26:01] "[36mGET /static/images/Ceremony/Upanayana.jpg HTTP/1.1[0m" 304 -
+2025-10-05 16:26:01,615 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 16:26:01] "[36mGET /static/images/Ceremony/annaprashan.jpg HTTP/1.1[0m" 304 -
+2025-10-05 16:26:01,620 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 16:26:01] "[36mGET /static/images/Ceremony/Wedding_Christian.jpg HTTP/1.1[0m" 304 -
+2025-10-05 16:26:01,635 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 16:26:01] "[36mGET /static/images/Ceremony/Shraddha.jpg HTTP/1.1[0m" 304 -
+2025-10-05 16:26:01,682 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 16:26:01] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+2025-10-05 16:26:01,703 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 16:26:01] "GET / HTTP/1.1" 200 -
+2025-10-05 16:29:02,452 - werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\Videos\\Applications\\cardwala\\backend\\app.py', reloading
+2025-10-05 16:29:02,454 - werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\Videos\\Applications\\cardwala\\backend\\app.py', reloading
+2025-10-05 16:29:03,216 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-10-05 16:29:04,093 - __main__ - INFO - ============================================================
+2025-10-05 16:29:04,095 - __main__ - INFO - ============================================================
+2025-10-05 16:29:04,098 - __main__ - INFO - ============================================================
+2025-10-05 16:29:04,134 - werkzeug - WARNING -  * Debugger is active!
+2025-10-05 16:29:04,142 - werkzeug - INFO -  * Debugger PIN: 888-558-400
+2025-10-05 16:31:24,335 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 16:31:24] "GET / HTTP/1.1" 200 -
+2025-10-05 16:31:24,649 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 16:31:24] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-10-05 16:31:24,657 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 16:31:24] "[36mGET /static/js/carousel.js HTTP/1.1[0m" 304 -
+2025-10-05 16:31:24,664 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 16:31:24] "[36mGET /static/images/Religion/Judaism.jpg HTTP/1.1[0m" 304 -
+2025-10-05 16:31:24,700 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 16:31:24] "[36mGET /static/images/Religion/christianity.jpg HTTP/1.1[0m" 304 -
+2025-10-05 16:31:24,721 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 16:31:24] "[36mGET /static/images/Ceremony/Vivah_Wedding.jpg HTTP/1.1[0m" 304 -
+2025-10-05 16:31:24,731 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 16:31:24] "[36mGET /static/images/Religion/Hinduism.jpg HTTP/1.1[0m" 304 -
+2025-10-05 16:31:24,736 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 16:31:24] "[36mGET /static/images/Religion/buddhism.jpg HTTP/1.1[0m" 304 -
+2025-10-05 16:31:24,736 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 16:31:24] "[36mGET /static/images/Ceremony/Grihapravesh.jpg HTTP/1.1[0m" 304 -
+2025-10-05 16:31:24,746 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 16:31:24] "[36mGET /static/images/Religion/Islam.jpg HTTP/1.1[0m" 304 -
+2025-10-05 16:31:24,747 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 16:31:24] "[36mGET /static/images/Ceremony/Mundan.jpg HTTP/1.1[0m" 304 -
+2025-10-05 16:31:24,751 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 16:31:24] "[36mGET /static/images/Ceremony/Confirmation.jpg HTTP/1.1[0m" 304 -
+2025-10-05 16:31:24,775 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 16:31:24] "[36mGET /static/images/Ceremony/Namkaran.jpg HTTP/1.1[0m" 304 -
+2025-10-05 16:31:24,778 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 16:31:24] "[36mGET /static/images/Ceremony/Baptism.jpg HTTP/1.1[0m" 304 -
+2025-10-05 16:31:24,790 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 16:31:24] "[36mGET /static/images/Ceremony/Upanayana.jpg HTTP/1.1[0m" 304 -
+2025-10-05 16:31:24,836 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 16:31:24] "[36mGET /static/images/Religion/Sikhism.png HTTP/1.1[0m" 304 -
+2025-10-05 16:31:24,839 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 16:31:24] "[36mGET /static/images/Religion/Zoroastrianism.jpg HTTP/1.1[0m" 304 -
+2025-10-05 16:31:24,856 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 16:31:24] "[36mGET /static/images/Religion/Taoism_Chinese_Traditions.jpg HTTP/1.1[0m" 304 -
+2025-10-05 16:31:24,874 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 16:31:24] "[36mGET /static/images/Ceremony/annaprashan.jpg HTTP/1.1[0m" 304 -
+2025-10-05 16:31:24,877 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 16:31:24] "[36mGET /static/images/Ceremony/Wedding_Christian.jpg HTTP/1.1[0m" 304 -
+2025-10-05 16:31:24,880 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 16:31:24] "[36mGET /static/images/Ceremony/Shraddha.jpg HTTP/1.1[0m" 304 -
+2025-10-05 16:31:24,917 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 16:31:24] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+2025-10-05 16:31:24,941 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 16:31:24] "GET / HTTP/1.1" 200 -
+2025-10-05 16:31:26,189 - __main__ - INFO - Generated captcha for signup: 13320
+2025-10-05 16:31:26,191 - werkzeug - INFO - 192.168.43.168 - - [05/Oct/2025 16:31:26] "GET /generate-captcha/signup HTTP/1.1" 200 -
+2025-10-05 16:47:28,146 - werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\Videos\\Applications\\cardwala\\main.py', reloading
+2025-10-05 16:47:28,857 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-10-05 16:47:29,413 - __main__ - INFO - ============================================================
+2025-10-05 16:47:29,414 - __main__ - INFO - ============================================================
+2025-10-05 16:47:29,417 - __main__ - INFO - ============================================================
+2025-10-05 16:47:29,451 - werkzeug - WARNING -  * Debugger is active!
+2025-10-05 16:47:29,457 - werkzeug - INFO -  * Debugger PIN: 888-558-400
